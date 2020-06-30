@@ -1,0 +1,9 @@
+Temperature.c:12:6:initTemperatureSensor	24	static
+Temperature.c:25:6:setPinOutput	8	static
+Temperature.c:34:6:setPinInput	8	static
+Temperature.c:42:9:sendResetPulse	16	static
+Temperature.c:69:6:setSensorMode	8	static
+Temperature.c:82:6:writeTempSensor	24	static
+Temperature.c:104:9:readTempSensor	16	static
+Temperature.c:126:6:measureTemperature	8	static
+Temperature.c:135:6:sendTemperatureVal	8	static

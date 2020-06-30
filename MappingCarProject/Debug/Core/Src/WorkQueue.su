@@ -1,0 +1,7 @@
+WorkQueue.c:5:12:createQueue	24	static
+WorkQueue.c:16:9:isFull	16	static
+WorkQueue.c:21:9:isEmpty	16	static
+WorkQueue.c:27:6:enqueue	24	static
+WorkQueue.c:39:10:dequeue	24	static
+WorkQueue.c:51:10:front	16	static
+WorkQueue.c:59:10:rear	16	static

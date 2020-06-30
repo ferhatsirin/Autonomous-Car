@@ -1,0 +1,9 @@
+MotorDriver.c:15:6:initMotorDriver	24	static
+MotorDriver.c:29:6:goForward	16	static
+MotorDriver.c:38:6:setMotorValue	16	static
+MotorDriver.c:42:7:getMotorValue	4	static
+MotorDriver.c:48:6:turnCar	24	static
+MotorDriver.c:76:6:resetMotorPins	8	static
+MotorDriver.c:82:6:motorGoForwardReturn	8	static
+MotorDriver.c:88:6:sendMotorMissionEnded	8	static
+MotorDriver.c:93:6:motorTimerCallback	8	static

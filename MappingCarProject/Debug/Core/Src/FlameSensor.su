@@ -1,0 +1,2 @@
+FlameSensor.c:10:6:initFlameSensor	16	static
+FlameSensor.c:18:6:readFlameSensor	8	static

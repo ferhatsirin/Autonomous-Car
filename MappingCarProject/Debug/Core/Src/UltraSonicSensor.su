@@ -1,0 +1,6 @@
+UltraSonicSensor.c:14:6:initUltraSonicSensor	24	static
+UltraSonicSensor.c:37:9:readSensor	24	static
+UltraSonicSensor.c:65:9:measureLeftDistance	8	static
+UltraSonicSensor.c:69:9:measureCenterDistance	8	static
+UltraSonicSensor.c:73:9:measureRightDistance	8	static
+UltraSonicSensor.c:77:6:measureDistances	24	static

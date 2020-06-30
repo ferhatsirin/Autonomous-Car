@@ -1,0 +1,6 @@
+Magnetometer.c:21:6:initMagnetometer	16	static
+Magnetometer.c:30:6:initializeRegisters	16	static
+Magnetometer.c:62:6:softResetMagnetometer	16	static
+Magnetometer.c:73:10:getDegree	16	static
+Magnetometer.c:91:6:readMagnetometerReg	16	static
+Magnetometer.c:102:10:readCompass	16	static

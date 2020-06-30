@@ -1,0 +1,4 @@
+DelayMS.c:5:6:initDelayMS	16	static
+DelayMS.c:11:6:delay_us	16	static
+DelayMS.c:18:6:setCounter	16	static
+DelayMS.c:22:10:getCounter	4	static
