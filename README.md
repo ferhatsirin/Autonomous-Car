@@ -1,2 +1,5 @@
 # Autonomous-Car
-Autonomous car with STM32 nucleo microcontroller
+Autonomous car for area mapping
+
+STM32F411 microcontroller
+
