@@ -9,6 +9,4 @@ HC-SR04 Ultrasonic sensor x3
 DS18B20 temperature sensor
 Flame sensor
 
-
-Breath First Search algorithm used for find path
-
+[!Car](https://github.com/ferhatsirin/Autonomous-Car/blob/master/car1.JPG)
